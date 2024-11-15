@@ -66,7 +66,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imjustnozell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=imjustnozell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
   <img align="right" src="https://github-profile-trophy.vercel.app?username=imjustnozell&theme=onedark&column=4&row=2&margin-w=4&margin-h=4&no-bg=false&no-frame=true&order=4" height="190" alt="trophy graph"  />
 </div>
  </div>
